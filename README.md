@@ -1,0 +1,1 @@
+## Integracja systemów informatycznych lab. 2 - blog-app
