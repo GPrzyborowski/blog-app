@@ -59,7 +59,7 @@ export default function LoginForm() {
 					Log in
 				</button>
 			</div>
-			<p className="text-red-500">{error}</p>
+			<p className="mt-16 text-red-500 text-center">{error}</p>
 		</form>
 	)
 }
