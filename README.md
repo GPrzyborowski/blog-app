@@ -24,9 +24,10 @@
    JWT_SECRET="dowolny_sekretny_ciag_znakow"
 ```
 
-4. Wykonaj migrację bazy danych:
+4. Wykonaj migrację bazy danych i wygeneruj klienta Prismy:
 ```bash
    npx prisma migrate dev
+   npx prisma generate
 ```
 
 5. Wypełnij bazę danych przykładowymi danymi:
