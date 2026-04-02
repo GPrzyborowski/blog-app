@@ -44,5 +44,5 @@
    npx prisma studio
 ```
 
-Aplikacja dostępna pod adresem `http://localhost:3000`.
+Aplikacja dostępna pod adresem `http://localhost:3000`.  
 Dane logowania: login `admin`, hasło `admin`.
